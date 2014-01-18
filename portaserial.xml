@@ -1,0 +1,10 @@
+<lista>
+  <PortaSerial>
+    <porta>COM1</porta>
+    <baudRate>1200</baudRate>
+    <numBits>5</numBits>
+    <paridade>Nenhum</paridade>
+    <stopBits>1</stopBits>
+    <status>false</status>
+  </PortaSerial>
+</lista>

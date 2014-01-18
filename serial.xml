@@ -1,0 +1,11 @@
+<list>
+  <br.com.fox.util.PortaSerial>
+    <porta>COM3</porta>
+    <baudRate>1200</baudRate>
+    <numBits>8</numBits>
+    <paridade>Nenhum</paridade>
+    <stopBits>1</stopBits>
+    <status>true</status>
+    <receptora>SafeLink</receptora>
+  </br.com.fox.util.PortaSerial>
+</list>
